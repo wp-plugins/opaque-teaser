@@ -4,7 +4,7 @@ Donate link: http://mikeselander.com
 Tags: landing page, under construction, teaser, opaque, coming soon, preview, private
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 0.1.0
+Stable tag: 0.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

@@ -43,7 +43,7 @@ if ( $op_settings['active'] == 'true' )
  */
 class OpaqueLandingPage{
 
-	const VERSION = '0.1.0';
+	const VERSION = '0.2.0';
 
 	/**
 	 * Constructor function.
