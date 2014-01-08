@@ -51,10 +51,10 @@ More than likely you have caching installed - delete the cache from your caching
 
 == Upgrade Notice ==
 
-= 0.1.0 =
+= 0.2.0 =
 Initial Release
 
 == Changelog ==
 
-= 0.1.0 =
+= 0.2.0 =
 * Initial release
