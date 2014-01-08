@@ -68,7 +68,7 @@ class OpaqueSettingPage{
 		$op_text_options = array(
 			'header_text'			=> 'Coming Soon!',
 			'sub_text'				=> 'This site will be up and running in no time at all!',
-			'custom_HTML'			=> '<h1>Custom Title</h1>'.\n\n.'<h3>Custom Subtext</h3>',
+			'custom_HTML'			=> '<h1>Custom Title</h1><h3>Custom Subtext</h3>',
 			'header_text_color'		=> '',	// coming soon
 			'header_text_font'		=> '',	// coming soon
 			'sub_text_color'		=> '',	// coming soon
