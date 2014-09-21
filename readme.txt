@@ -3,8 +3,8 @@ Contributors: mikeselander
 Donate link: http://mikeselander.com
 Tags: landing page, under construction, teaser, opaque, coming soon, preview, private
 Requires at least: 3.0
-Tested up to: 3.9
-Stable tag: 0.2.0
+Tested up to: 4.0
+Stable tag: 0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,13 +48,18 @@ More than likely you have caching installed - delete the cache from your caching
 
 1. The settings panel
 
-
 == Upgrade Notice ==
+
+= 0.2.1 =
+Fixed problem with parsing on settings page & made compatible with 4.0
 
 = 0.2.0 =
 Initial Release
 
 == Changelog ==
+
+= 0.2.1 =
+* Fixed problem with parsing on settings page & made compatible with 4.0
 
 = 0.2.0 =
 * Initial release
